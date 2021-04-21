@@ -1,5 +1,5 @@
 
-
+###### 使用FFMPEG mp4轉M3U8
 前置</br>
 準備 ffmpeg</br>
 準備影片檔案  video.mp4</br>
