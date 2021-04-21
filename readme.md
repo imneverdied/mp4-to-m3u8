@@ -2,7 +2,7 @@
 使用FFMPEG mp4轉M3U8
 =============
 前置</br>
-準備 ffmpeg</br>
+準備 [ffmpeg ](https://www.ffmpeg.org/)</br>
 準備影片檔案  video.mp4</br>
 ![image](https://imneverdied.github.io/mp4-to-m3u8/pic/1.png)</br>
 按 makem3u8Vedio.bat </br>
